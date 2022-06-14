@@ -1,0 +1,1 @@
+python evaluate.py --model=weights/agflow-things.pth  --dataset=kitti --mixed_precision
