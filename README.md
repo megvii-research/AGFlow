@@ -1,12 +1,12 @@
-<h2 align="center"> Learning Optical Flow with Adaptive Graph Reasoning </h2>
+<h2 align="center"> [AAAI2022]Learning Optical Flow with Adaptive Graph Reasoning </h2> 
+
 
 <h4 align="center">Ao Luo$^1$, Fan Fang$^2$, Kunming Luo$^1$, Xin Li$^2$, Haoqiang Fan$^1$, Shuaicheng Liu$^3$</h4>
 <h4 align="center">1. Megvii Research,             2. Group 42</h4>
 <h4 align="center">3. University of Electronic Science and Technology of China</h4>
 
-
-
-This project provides the source code for '[**Learning Optical Flow with Adaptive Graph Reasoning**](https://www.aaai.org/AAAI22Papers/AAAI-1843.LuoA.pdf)'. (AAAI-2022)
+## Paper
+[[Link](https://www.aaai.org/AAAI22Papers/AAAI-1843.LuoA.pdf)]
 
 ## Presentation Video
 [[Youtube](https://www.youtube.com/watch?v=7ywAgSTaj1A)], [[Bilibili](https://www.bilibili.com/video/BV1Fm4y1f7QC/)]
