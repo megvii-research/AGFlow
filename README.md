@@ -1,4 +1,10 @@
-# AGFlow
+<h2 align="center"> Learning Optical Flow with Adaptive Graph Reasoning </h2>
+
+<h4 align="center">Ao Luo$^1$, Fan Fang$^2$, Kunming Luo$^1$, Xin Li$^2$, Haoqiang Fan$^1$, Shuaicheng Liu$^3$</h4>
+<h4 align="center">1. Megvii Research        2. Group 42</h4>
+<h4 align="center">3. University of Electronic Science and Technology of China</h4>
+
+
 
 This project provides the source code for '[**Learning Optical Flow with Adaptive Graph Reasoning**](https://arxiv.org/pdf/2202.03857.pdf)'. (AAAI-2022)
 
