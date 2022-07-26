@@ -5,8 +5,11 @@
 <h4 align="center">1. Megvii Research,             2. Group 42</h4>
 <h4 align="center">3. University of Electronic Science and Technology of China</h4>
 
-## Paper
-[[Link](https://www.aaai.org/AAAI22Papers/AAAI-1843.LuoA.pdf)]
+
+
+
+
+This is the official implementation of 'Learning Optical Flow with Adaptive Graph Reasoning', named as 'AGFlow' for short, AAAI 2022, [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1843.LuoA.pdf)]
 
 ## Presentation Video
 [[Youtube](https://www.youtube.com/watch?v=7ywAgSTaj1A)], [[Bilibili](https://www.bilibili.com/video/BV1Fm4y1f7QC/)]
