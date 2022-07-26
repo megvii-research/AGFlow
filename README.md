@@ -9,7 +9,7 @@
 This project provides the source code for '[**Learning Optical Flow with Adaptive Graph Reasoning**](https://arxiv.org/pdf/2202.03857.pdf)'. (AAAI-2022)
 
 ## Presentation Video
-[[Youtube]](https://www.youtube.com/watch?v=7ywAgSTaj1A), [[Bilibili]](https://www.bilibili.com/video/BV1Fm4y1f7QC/)
+[[Youtube](https://www.youtube.com/watch?v=7ywAgSTaj1A)], [[Bilibili](https://www.bilibili.com/video/BV1Fm4y1f7QC/)]
 
 
 ## Overview
