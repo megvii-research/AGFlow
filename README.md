@@ -1,7 +1,7 @@
 <h2 align="center"> [AAAI2022]Learning Optical Flow with Adaptive Graph Reasoning </h2> 
 
 
-<h4 align="center">Ao Luo$^1$, Fan Fang$^2$, Kunming Luo$^1$, Xin Li$^2$, Haoqiang Fan$^1$, Shuaicheng Liu$^3$</h4>
+<h4 align="center">Ao Luo<sup>1</sup>, Fan Fang<sup>2</sup>, Kunming Luo<sup>1</sup>, Xin Li<sup>2</sup>, Haoqiang Fan<sup>1</sup>, Shuaicheng Liu<sup>3</sup></h4>
 <h4 align="center">1. Megvii Research,             2. Group 42</h4>
 <h4 align="center">3. University of Electronic Science and Technology of China</h4>
 
